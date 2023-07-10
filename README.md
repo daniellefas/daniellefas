@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @daniellefas
 - 👀 I’m interested in software
+- Desenvolvimento e análise de sistema desenvolvimento de web Design e Java / JavaScript 
 - 🌱 I’m currently learning in Brazil
 - 💞️ I’m looking to collaborator on for my project
 - 📫 How to reach me andress e-mail: danielle.silvafa.@gmail.com
