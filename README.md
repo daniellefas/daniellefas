@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniellefas
+- 👋 Hi, I’m Danielle
 - 👀 I’m interested in software
 - Desenvolvimento e análise de sistema desenvolvimento de web Design e Java / JavaScript 
 - 🌱 I’m currently learning in Brazil
